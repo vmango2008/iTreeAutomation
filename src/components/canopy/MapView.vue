@@ -987,7 +987,7 @@ async function syncOverrides(areaId: string) {
     <aside class="flex w-96 shrink-0 flex-col gap-4 overflow-y-auto border-l border-neutral-200 bg-white p-4">
       <div>
         <h1 class="text-lg font-semibold text-neutral-900">
-          <i class="fa-solid fa-tree mr-1.5 text-emerald-600"></i>iTree Canopy AI
+          <i class="fa-solid fa-tree mr-1.5 text-emerald-600"></i>CanopyCensus
         </h1>
         <p class="text-xs text-neutral-500">Instant canopy cover via image segmentation</p>
       </div>
